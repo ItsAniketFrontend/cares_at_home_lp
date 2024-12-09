@@ -118,6 +118,26 @@ nav li a {
   margin-bottom: 0px;
 }
 
+.machine {
+  padding: 50px 0px;
+}
+.machine h2 {
+  color: #000;
+  font-size: 32px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.machine h5 {
+  color: #FC6767;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
 .why-us h2 {
   color: #000;
   font-size: 32px;
@@ -145,10 +165,10 @@ nav li a {
 
 .testimonials {
   padding: 50px 0px;
-  background: #E4FAF9;
+  background: #0C8485;
 }
 .testimonials h2 {
-  color: #000;
+  color: #fff;
   font-size: 32px;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
